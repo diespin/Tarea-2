@@ -124,43 +124,43 @@
 ## UNIDAD 4
 ### AUTOEVALUACION 
 #### 2. Si se consumen doscientos joules de energía en 10 s. La potencia es
-#### (a) 2000 W (b) 10 W (c) 20 W (d) 2 W
+#### (c) 20 W 
 #### 4. En 50 kW, hay
-#### (a) 500 W (b) 5000 W (c) 0.5 MW (d) 50,000 W
+#### (d) 50,000 W
 #### 6. Con 10 V y 50 mA, la potencia es
-#### (a) 500 mW (b) 0.5 W (c) 500,000 (d) respuestas (a), (b) y (c)
+#### (d) respuestas (a), (b) y (c)
 #### 8. Un resistor de 2.2 kÆ disipa 0.5 W. La corriente es
-#### (a) 15.1 mA (b) 0.227 mA (c) 1.1 mA (d) 4.4 mA
+#### (a) 15.1 mA 
 #### 10. Si utiliza 500 W de potencia durante 24 h, ha utilizado
-#### (a) 0.5 kWh (b) 2400 kWh (c) 12,000 kWh (d) 12 kWh
+#### (d) 12 kWh
 
 #### 12. Un resistor de 100 Æ debe transportar una corriente máxima de 35 mA. Su capacidad deberá ser de por lo menos
-#### (a) 35 W (b) 35 mW (c) 123 mW (d) 3500 mW
+#### (c) 123 mW 
 
 #### 14. Un resistor de 22 Æ y medio watt y un resistor de 220 Æ y medio watt se conectan a través de una fuente de 10 V. ¿Cuál o cuáles resistores se sobrecalentarán?
 
-#### (a) (b) (c) ambos (d) ninguno
+#### (a) 
 
 #### 16. Se conecta una batería de 12 V a una carga de 600 Æ. En estas condiciones, su capacidad es de 50 Ah. ¿Cuánto tiempo puede suministrar corriente a la carga?
-#### (a) 2500 h (b) 50 h (c) 25 h (d) 4.16 h
+#### (a) 2500 h
 #### 18. Una fuente de potencia produce una salida de 0.5 W con una entrada de 0.6 W. Su porcentaje de eficiencia es
 
-#### (a) 50% (b) 60% (c) 83.3% (d) 45%
+#### (c) 83.3% 
 ### EXAMEN RÁPIDO DE DINÁMICA DE CIRCUITOS
 #### 2. Si el voltaje a través de un resistor fijo cambia de 10 V a 7 V, la potencia en el resistor
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (b) disminuye 
 #### 4. Si el voltaje a través de un resistor se incrementa de 5 a 10 V y la corriente aumenta de 1 mA a 2 mA, la potencia
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (a) se incrementa 
 #### 6. Si la cantidad de tiempo que una batería suministra corriente a una carga disminuye, su capacidad de amperes-hora.
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (c) no cambia
 #### 8. Si no hay una carga conectada a una batería, su capacidad de amperes-hora
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (c) no cambia
 #### Consulte la figura 4-11
 
 #### 10. Con un voltaje constante de salida, si la corriente suministrada a la carga disminuye, la potencia suministrada a la carga
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (b) disminuye 
 #### 12. Si la carga se retira del circuito y deja una apertura, idealmente el voltaje de salida de la fuente de potencia
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (c) no cambia
 ### PROBLEMAS
 #### SECCIÓN 4–1 Energía y potencia
 #### 2. Demuestre que hay 3.6X10^6 joules en un kilowatt-hora.
