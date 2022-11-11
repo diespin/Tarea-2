@@ -12,8 +12,8 @@
 - Realizar calculos de energia y potencia.
 
 ## 2. MARCO TEÓRICO 
-
-
+[![CIRCUITOS-U3-2.png](https://i.postimg.cc/cJx0BPpx/CIRCUITOS-U3-2.png)](https://postimg.cc/VJVxYZsp)
+[![circuitos-5-2.png](https://i.postimg.cc/NGJbxnng/circuitos-5-2.png)](https://postimg.cc/mh9QLmRq)
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ## UNIDAD 3
 ### AUTOEVALUACION
