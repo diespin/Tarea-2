@@ -87,11 +87,11 @@
 #### R=V/I
 #### 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. 
 [![deber-2-c-2.png](https://i.postimg.cc/d38GqjQX/deber-2-c-2.png)](https://postimg.cc/D4wS6sXd)
-####¿Es la gráfica una línea recta?
+#### ¿Es la gráfica una línea recta?
 [![circuitos-3-2.png](https://i.postimg.cc/W3tF5DWd/circuitos-3-2.png)](https://postimg.cc/yg48dNzK)
 #### Si lo es.
-####¿Qué indica la gráfica?
-####La relacion lineal y directamente proporcional del voltaje con respecto a la intensidad.
+#### ¿Qué indica la gráfica?
+#### La relacion lineal y directamente proporcional del voltaje con respecto a la intensidad.
 
 #### 6. En cierto circuito, I=5 mA cuando V=1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 #### (a) V=1.5V = 7.5 mA
@@ -117,7 +117,7 @@
 #### V= 0.2kΩX30 mA
 #### V= 6V
 #### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
-Se podria cambiar a una de 30V. 
+#### Se podria cambiar a una de 30V. 
 #### 13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
 #### (a)1.0Ω 
 #### (b)5.0Ω 
@@ -125,7 +125,7 @@ Se podria cambiar a una de 30V.
 #### (d)100Ω
 [![circuitos-23-2.png](https://i.postimg.cc/CxbJHKdC/circuitos-23-2.png)](https://postimg.cc/qNM8p4sg)
 #### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
-Si ya que como sabemos el voltaje y la intensidad son directamente proporcionales lo que les da una proporcion lineal, es decir si una magnitud crece la otra tambien.
+#### Si ya que como sabemos el voltaje y la intensidad son directamente proporcionales lo que les da una proporcion lineal, es decir si una magnitud crece la otra tambien.
 #### SECCIÓN 3–2 Cálculo de la corriente
 #### 15. Determine la corriente en cada caso:
 #### (a) V=5V, R=1.OΩ => I=5A
@@ -153,11 +153,11 @@ de colores es naranja, violeta, amarillo, oro, café.
 #### 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 [![deber-2-circutos-3-2.png](https://i.postimg.cc/VNLfmxcM/deber-2-circutos-3-2.png)](https://postimg.cc/v4kFvSTH)
 #### 23. Calcule el voltaje para cada valor de I y R:
-(a) I=2A, R=18Ω
-(b) I=5A, R=56Ω
-(c) I=2.5A, R=680Ω
-(d) I=0.6A, R=47Ω
-(e) I=0.1A, R=560Ω
+#### (a) I=2A, R=18Ω
+#### (b) I=5A, R=56Ω
+#### (c) I=2.5A, R=680Ω
+#### (d) I=0.6A, R=47Ω
+#### (e) I=0.1A, R=560Ω
 #### 24. Calcule el voltaje para cada valor de I y R:
 #### (a) I = 1 mA, R = 10 Ω
 #### (b) I = 50 mA, R = 33 Ω
@@ -169,7 +169,7 @@ de colores es naranja, violeta, amarillo, oro, café.
 #### (h) I = 75 µA, R = 47 Ω 
 
 #### 25. Se leen tres amperes de corriente a través de un resistor de 27 V conectado a una fuente de voltaje.
-¿Cuánto voltaje produce la fuente?
+#### ¿Cuánto voltaje produce la fuente?
 
 #### 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 
@@ -193,16 +193,14 @@ de colores es naranja, violeta, amarillo, oro, café.
 #### (d) V=50V, I=500µA
 #### (e) V=1kV, I=1mA
 #### 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
-#### 31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la
-cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+#### 31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
 
 
 #### 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
 
 
-#### 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de co-
-rriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+#### 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
 [![5-2.png](https://i.postimg.cc/15mMsBj6/5-2.png)](https://postimg.cc/c6zfcRZ4)
 
 #### 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
@@ -218,8 +216,7 @@ rriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál e
 #### Localización y análisis de fallas con Multisim
 #### Estos problemas requieren del CD-ROM Multisim.
 
-#### 38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apro-
-piadamente.
+#### 38. Abra el archivo P03-38 en su CD-ROM y determine cuál de los tres circuitos no está funcionando apropiadamente.
 
 #### 39. Abra el archivo P03-39 y mida los valores de resistencia de los resistores.
 #### 40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.
