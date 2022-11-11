@@ -15,6 +15,7 @@
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+## UNIDAD 3
 ### AUTOEVALUACION
 #### 2. Cuando el voltaje a través de un resistor se duplique, la corriente:
 #### (c) se duplicará 
@@ -120,12 +121,104 @@
 #### 40. Abra el archivo P03-40 y determine los valores de la corriente y el voltaje.
 #### 42. Abra el archivo P03-42 y encuentre el problema con el circuito.
 
+## UNIDAD 4
+### AUTOEVALUACION 
+#### 2. Si se consumen doscientos joules de energía en 10 s. La potencia es
+#### (a) 2000 W (b) 10 W (c) 20 W (d) 2 W
+#### 4. En 50 kW, hay
+#### (a) 500 W (b) 5000 W (c) 0.5 MW (d) 50,000 W
+#### 6. Con 10 V y 50 mA, la potencia es
+#### (a) 500 mW (b) 0.5 W (c) 500,000 (d) respuestas (a), (b) y (c)
+#### 8. Un resistor de 2.2 kÆ disipa 0.5 W. La corriente es
+#### (a) 15.1 mA (b) 0.227 mA (c) 1.1 mA (d) 4.4 mA
+#### 10. Si utiliza 500 W de potencia durante 24 h, ha utilizado
+#### (a) 0.5 kWh (b) 2400 kWh (c) 12,000 kWh (d) 12 kWh
 
+#### 12. Un resistor de 100 Æ debe transportar una corriente máxima de 35 mA. Su capacidad deberá ser de por lo menos
+#### (a) 35 W (b) 35 mW (c) 123 mW (d) 3500 mW
+
+#### 14. Un resistor de 22 Æ y medio watt y un resistor de 220 Æ y medio watt se conectan a través de una fuente de 10 V. ¿Cuál o cuáles resistores se sobrecalentarán?
+
+#### (a) (b) (c) ambos (d) ninguno
+
+#### 16. Se conecta una batería de 12 V a una carga de 600 Æ. En estas condiciones, su capacidad es de 50 Ah. ¿Cuánto tiempo puede suministrar corriente a la carga?
+#### (a) 2500 h (b) 50 h (c) 25 h (d) 4.16 h
+#### 18. Una fuente de potencia produce una salida de 0.5 W con una entrada de 0.6 W. Su porcentaje de eficiencia es
+
+#### (a) 50% (b) 60% (c) 83.3% (d) 45%
+### EXAMEN RÁPIDO DE DINÁMICA DE CIRCUITOS
+#### 2. Si el voltaje a través de un resistor fijo cambia de 10 V a 7 V, la potencia en el resistor
+#### (a) se incrementa (b) disminuye (c) no cambia
+#### 4. Si el voltaje a través de un resistor se incrementa de 5 a 10 V y la corriente aumenta de 1 mA a 2 mA, la potencia
+#### (a) se incrementa (b) disminuye (c) no cambia
+#### 6. Si la cantidad de tiempo que una batería suministra corriente a una carga disminuye, su capacidad de amperes-hora.
+#### (a) se incrementa (b) disminuye (c) no cambia
+#### 8. Si no hay una carga conectada a una batería, su capacidad de amperes-hora
+#### (a) se incrementa (b) disminuye (c) no cambia
+#### Consulte la figura 4-11
+
+#### 10. Con un voltaje constante de salida, si la corriente suministrada a la carga disminuye, la potencia suministrada a la carga
+#### (a) se incrementa (b) disminuye (c) no cambia
+#### 12. Si la carga se retira del circuito y deja una apertura, idealmente el voltaje de salida de la fuente de potencia
+#### (a) se incrementa (b) disminuye (c) no cambia
+### PROBLEMAS
+#### SECCIÓN 4–1 Energía y potencia
+#### 2. Demuestre que hay 3.6X10^6 joules en un kilowatt-hora.
+#### 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+#### 6. Convierta las siguientes cantidades en kilowatts:
+#### (a) 1000 W (b) 3750 W (c) 160 W (d) 50,000 W
+#### 8. Convierta las siguientes cantidades en miliwatts:
+#### (a) 1 W (b) 0.4 W (c) 0.002 W (d) 0.0125 W
+#### 10. Convierta las siguientes cantidades en watts:
+#### (a) 1.5 kW (b) 0.5 MW (c) 350 mW (d) 9000
+
+#### *12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+#### 14. Convierta 5 X 10^6 watts-minutos en kWh.
+#### 16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+
+#### SECCIÓN 4–2 Potencia en un circuito eléctrico
+#### 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+#### 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kÆ?
+#### 22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+#### 24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+#### SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
+#### 26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+#### SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
+
+#### 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+#### SECCIÓN 4–5 Fuentes de potencia
+#### 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+#### 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+#### 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+#### 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+#### Localización de fallas y análisis con archivos Multisim
+#### Estos problemas requieren del CD-ROM Multisim.
+#### 38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.
+
+
+
+#### 40. Abra el archivo P04-40. Mida la corriente en la lámpara, y determine si el valor concuerda con el que encontró mediante su clasificación de potencia y voltaje.
 
 ## 4. VIDEO
 
 
 ## 5. CONCLUSIONES
-
-
+- El voltaje y la corriente son linealmente proporcionales.
+- La ley de Ohm establece la relacion entre voltaje, resistencia y corriente.
+- La resistencia y la corriente tiene un realcion inversa.
+- APM es un metodo util para abordar la localizacion de fallas.
+- La potencia nominal en watts de un resistor determina la potencia máxima que puede manejar con seguridad.
+- Los resistores más grandes puede disipar más potencia en forma de calor que los resistores pequeños.
+- Energía es la capacidad de realizar trabajo y es igual a la potencia multiplicada por el tiempo.
+- Una fuente de potencia es una fuente de energía utilizada para operar dispositivos eléctricos y electrónicos.
+- Una carga es un dispositivo que absorbe corriente de la fuente de potencia.
+- Un circuito con alta eficiencia sufre un porcentaje de pérdida de potencia más pequeño que un circuito con eficiencia más baja.
 ## 6. BIBLIOGRAFÍA
+- Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.pp.89-94,). PEARSON EDUCACION.
+- Floyd Thomas L.P.2007.Voltaje, corriente y resistencia, Principios de circuitos eléctricos (8va ed.pp.112-114,). PEARSON EDUCACION.
+
