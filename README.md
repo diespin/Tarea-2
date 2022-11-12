@@ -118,7 +118,7 @@ R= V/I = 6V/2mA = 3KΩ
 
 #### 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 [![5-3.png](https://i.postimg.cc/ryJCnWwp/5-3.png)](https://postimg.cc/qgN3gNnf)
-Explicacion : El foco hubicado en la 4ta posicion desde la izquierda.
+### Explicacion : El foco hubicado en la 4ta posicion desde la izquierda.
 ## UNIDAD 4
 ### AUTOEVALUACION 
 #### 2. Si se consumen doscientos joules de energía en 10 s. La potencia es
@@ -229,7 +229,7 @@ Explicacion : El foco hubicado en la 4ta posicion desde la izquierda.
 #### 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 #### Eficiencia = P.salida/P.entrada
 #### 85% = P.salida/5W
-#### 4.25 = P.salida
+#### 4.25W = P.salida
 
 ## 4. VIDEO
 
