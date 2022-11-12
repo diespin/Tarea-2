@@ -182,7 +182,7 @@ R= V/I = 6V/2mA = 3KΩ
 #### (c) 350 mW = 0,35W
 #### (d) 9000 µW = 0,09W
 
-#### *12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+#### 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 #### P = 0,3kW/720h = 4.16x10^-4 kW/h
 #### 14. Convierta 5 X 10^6 watts-minutos en kWh.
 #### 5 X 10^6 w/min = 3 x 10^5 kW/h
@@ -232,8 +232,7 @@ R= V/I = 6V/2mA = 3KΩ
 #### 4.25W = P.salida
 
 ## 4. VIDEO
-
-
+https://youtu.be/5okOrN9nVuQ
 ## 5. CONCLUSIONES
 - El voltaje y la corriente son linealmente proporcionales.
 - La ley de Ohm establece la relacion entre voltaje, resistencia y corriente.
